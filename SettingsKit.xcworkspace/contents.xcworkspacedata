@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "container:SettingsKit.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:SettingsKit iOS.playground">
+   </FileRef>
+</Workspace>
